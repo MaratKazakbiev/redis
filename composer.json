@@ -1,0 +1,14 @@
+{
+    "name": "maratkazakbiev/redis",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maratkazakbiev\\Redis\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "predis/predis": "^2.2"
+    }
+}
